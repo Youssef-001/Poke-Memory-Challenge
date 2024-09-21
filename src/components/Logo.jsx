@@ -3,7 +3,7 @@ function Logo() {
     <div className="logo">
       <img
         className="icon"
-        src="\assets\pokeball-pokemon-svgrepo-com.svg"
+        src="src/assets/pokeball-pokemon-svgrepo-com.svg"
         alt=""
       />
       <h2>Pokémon</h2>
